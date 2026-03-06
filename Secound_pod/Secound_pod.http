@@ -1,0 +1,6 @@
+@Secound_pod_HostAddress = http://localhost:5233
+
+GET {{Secound_pod_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
